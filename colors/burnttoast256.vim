@@ -53,7 +53,7 @@ hi Cursor                                 ctermbg=214 guibg=#ffaf00
 hi CursorLine                             ctermbg=235 guibg=#262626 cterm=none gui=none
 hi CursorLineNr ctermfg=7   guifg=#e5e5e5 ctermbg=233 guibg=#121212 cterm=bold gui=bold
 hi FoldColumn   ctermfg=248 guifg=#a8a8a8 ctermbg=bg  guibg=bg
-hi Folded       ctermfg=255 guifg=#eeeeee ctermbg=60  guibg=#5f5f87
+hi Folded	ctermfg=248 guifg=#a8a8a8 ctermbg=bg  guibg=bg
 hi IncSearch    ctermfg=0   guifg=#000000 ctermbg=223 guibg=#ffdfaf cterm=none gui=none
 hi LineNr       ctermfg=8   guifg=#7f7f7f ctermbg=233 guibg=#121212
 hi NonText      ctermfg=237 guifg=#3a3a3a
